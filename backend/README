@@ -1,0 +1,10 @@
+npm init -y
+npm i --save-dev typescript
+npx tsc --init => For tsconifg file
+npm i express
+npm i --save-dev @types/express
+npx tsc => To compile typescripts files
+// node server.js
+npm i -D eslint
+npx eslint --init
+npx eslint . --ext .ts
